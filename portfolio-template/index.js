@@ -1,4 +1,4 @@
-const name = 'Mayank Kuamr'
+const name = 'Mayank Kumar'
 const title = 'Web Devloper'
 const mail = 'mayankkumarbokaro4@gamil.com'
 
